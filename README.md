@@ -1,4 +1,4 @@
-# Stable-Difussion
+# Stable-Diffussion
 Summer of Code project 2023
 This project focuses on building a stable diffusion model, an AI technology that uses the principles of Stable Diffusion and various neural network architectures like U-Net encoders, Variational Autoencoders, and CLIP text encoders to generate high-quality images based on textual descriptions. The approach involves learning, implementing and evaluating each of these models in PyTorch, and then utilizing pre-trained versions to construct a robust and efficient stable diffusion model.
 This project revolves around two significant research papers, DDPM and High Res Latent diffusion, where the emphasis is majorly on the DDPM paper. The main models involved in a stable diffusion model are the U-Net encoder, Variational Autoencoder, and the CLIP text encoder.
